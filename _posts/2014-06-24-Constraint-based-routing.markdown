@@ -42,9 +42,6 @@ If `UserContraint.matches?` returns `true` then `Controller#action` will execute
 ###### Resources
 
 [How to use rails route constraints](http://blog.8thlight.com/ben-voss/2013/01/12/how-to-use-rails-route-constraints.html)
-<<<<<<< HEAD
 
-=======
->>>>>>> 93457c986ca1cf489b2008cf2c3e6cd8336242da
 [Using Routing Constraints to Root Your App](http://viget.com/extend/using-routing-constraints-to-root-your-app)
 
